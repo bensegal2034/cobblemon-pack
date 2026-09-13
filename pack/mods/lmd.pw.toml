@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/fgcMDg9B/letmedespawn-1.21.x-neoforge-1.5.0.jar"
-hash-format = "sha1"
-hash = "576fe2edaa96e7e71015287457bd52f87646d968"
+hash-format = "sha256"
+hash = "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a"
 
 [update]
 [update.modrinth]

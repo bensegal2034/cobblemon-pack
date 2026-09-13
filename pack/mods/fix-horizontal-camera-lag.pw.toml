@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TuB934hI/versions/zsOvyrNK/eg_fix_horizontal_camera_lag-1.1.1-neoforge-mc1.21.jar"
-hash-format = "sha1"
-hash = "31bb1d1f6b694027596d8220bf79ff5ce44e99d1"
+hash-format = "sha256"
+hash = "54e715c9b4e3612ec53c4987876b2ab1f632a0f093938f0a7fba3228622f989b"
 
 [update]
 [update.modrinth]

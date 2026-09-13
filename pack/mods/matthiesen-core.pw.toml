@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sqEZOmQo/versions/yTCOBLRU/matthiesen-core-neoforge-1.2.9.jar"
-hash-format = "sha1"
-hash = "982a4849f4c7757dc540abb8b9a93e9a612a03c5"
+hash-format = "sha256"
+hash = "c857156521c2fdb748aa4049e067b79124fe43b1c0eab03b0cc941a2c6450392"
 
 [update]
 [update.modrinth]

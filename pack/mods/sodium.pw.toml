@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
-hash-format = "sha1"
-hash = "1757289be21ed18db5b0d90703fa3db1b2de5693"
+hash-format = "sha256"
+hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
 
 [update]
 [update.modrinth]

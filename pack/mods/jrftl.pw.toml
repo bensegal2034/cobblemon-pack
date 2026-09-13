@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8nIicBYu/versions/ZgbUilZH/jrftl-1.21-neoforge-1.8.0.jar"
-hash-format = "sha1"
-hash = "72cd77e1d2239d2ae583481481aab5fa5e2d4f31"
+hash-format = "sha256"
+hash = "b1eb51191c20b34d183fcc32c19b472f5c295337c99c660688bc627a92ddb1a5"
 
 [update]
 [update.modrinth]

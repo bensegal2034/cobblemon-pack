@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/E4CZjM14/cobblemonintegrations-neoforge-1.21.1-1.1.8.jar"
-hash-format = "sha1"
-hash = "954398887c3f87a0028593a6be8ebe60aca04c05"
+hash-format = "sha256"
+hash = "9eb0ffcec70700c07f86c174e0bed516076b95b2a5fdaf404941cba46301523a"
 
 [update]
 [update.modrinth]

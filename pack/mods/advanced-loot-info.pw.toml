@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PEPVViac/versions/y8p1Vq83/AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar"
-hash-format = "sha1"
-hash = "d4d48bde7b92449f34281159232650d8dda28ad0"
+hash-format = "sha256"
+hash = "67b5e5cbf7ab780042b6aa86ade5f14eaf006c810daed66046bc5f85033e9714"
 
 [update]
 [update.modrinth]

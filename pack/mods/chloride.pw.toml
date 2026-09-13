@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yD9qW65f/versions/IgWRdE2d/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar"
-hash-format = "sha1"
-hash = "50454011525e2862678b15d94484fd32a5a54dfb"
+hash-format = "sha256"
+hash = "d0b0a80a241078f917afb96e53821d7c70c38faebaca9adee0c86a9a8cb482c1"
 
 [update]
 [update.modrinth]

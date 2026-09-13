@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bVyTANLH/versions/lp6xuQHS/packwiz-ard-neoforge-1.0.0-beta.7.jar"
-hash-format = "sha1"
-hash = "32e865ae87bb389ca0ddfba62bc50e40da03c64f"
+hash-format = "sha256"
+hash = "9db7e859e3e037477df858668ea605e0f0acf8b244d8e2beb8d5b2339241d33f"
 
 [update]
 [update.modrinth]

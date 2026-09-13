@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lev3YGBh/versions/oNngAmjP/jaopcaextras-1.21.1-5.0.0.jar"
-hash-format = "sha1"
-hash = "c1c1ddb3a903652d0fad5c6bf40a437060b3ee8f"
+hash-format = "sha256"
+hash = "803a81bb7c30ca8e18e36e5008baccd7de4d3eb17a8bf4ad17121354a279b7e8"
 
 [update]
 [update.modrinth]

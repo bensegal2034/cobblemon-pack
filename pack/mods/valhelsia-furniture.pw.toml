@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qmCh2PxS/versions/SZm6bDvf/valhelsia_furniture-neoforge-1.21.1-1.1.1.jar"
-hash-format = "sha1"
-hash = "a95d4e554ee905bedbef2655438d79b9f3b35cec"
+hash-format = "sha256"
+hash = "7bb84c37a74a2f71929687e0b972b3f2e4939540f9b3addf2bf5e1208206afb1"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2UJdja33/versions/q5C0EErE/swingthroughgrass-neoforge-1.0.1-1.21.1.jar"
-hash-format = "sha1"
-hash = "8557d342d33ca9c8bffbdbae8a28963a154718d5"
+hash-format = "sha256"
+hash = "5b164787e76fbe5d882c07fd8ea614f804aef13fd53e645ccb826f4e7b027183"
 
 [update]
 [update.modrinth]

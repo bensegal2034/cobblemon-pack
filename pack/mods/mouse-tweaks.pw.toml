@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
-hash-format = "sha1"
-hash = "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+hash-format = "sha256"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
 
 [update]
 [update.modrinth]

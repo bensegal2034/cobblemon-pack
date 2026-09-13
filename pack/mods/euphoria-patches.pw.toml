@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4H6sumDB/versions/voduvfsA/EuphoriaPatcher-1.10.1-r5.9.1-neoforge.jar"
-hash-format = "sha1"
-hash = "177c951ab0adf657cedeef3990212f8cee3cfa46"
+hash-format = "sha256"
+hash = "a2b8304ef51182d659a3cc44fa77f880cbcf0c6f9ec74e24593d4015bcadee48"
 
 [update]
 [update.modrinth]
