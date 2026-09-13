@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P48mHi2j/versions/8rn9Okkd/JAOPCA-1.21.1-5.0.14.23.jar"
-hash-format = "sha512"
-hash = "1ee14e1c0ab1aefa2234d1f7c502c8ee567c4cebfcb75a260c24e7ebc91759129be0a54c18b299c431abb4e1f5de6e0703f59222b249fc64e0d282de1aa33c8d"
+hash-format = "sha1"
+hash = "912b36e4ca9efa7ed542e9dffb0b4bb188d5b83e"
 
 [update]
 [update.modrinth]

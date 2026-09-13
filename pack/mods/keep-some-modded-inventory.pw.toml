@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2b524hUn/versions/utKzIiZe/keepsomemoddedinventory-1.5.jar"
-hash-format = "sha512"
-hash = "57e7be2b88ebcced47a96a1da7cee79bf482757d789f3adbbce31bd5745716fec1d594dac5d91bb30d477aad9093a62790e6c38317b8c93dfeba8f60c7421549"
+hash-format = "sha1"
+hash = "68f0b3c03a98fef6364b8db07accfeb0d76fca92"
 
 [update]
 [update.modrinth]
