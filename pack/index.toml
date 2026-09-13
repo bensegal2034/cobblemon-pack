@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "DOWNLOAD_HERE/client.zip"
-hash = "8346869bdf2aa33e53f8dd3233c161b349abdfc10384fcdf5c3fd2b354c74006"
-
-[[files]]
-file = "DOWNLOAD_HERE/server.zip"
-hash = "8f4ee5cadbd056267a871e47b705ad6f911789b72520c4b02d0144eb0832eca1"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
