@@ -281,6 +281,11 @@ hash = "a4e12af3a61f73db9128b857d053770f1d4cab64697a08c9d027e5c8bcdf6891"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-core.pw.toml"
+hash = "7a965adfc1032770aef315009d039b8f069623dbd92949b54bdf8c2acc3ad875"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-ard.pw.toml"
+hash = "0602afc7088a922d2bab670df9e309033e6f818e9a021469c076e1ca0be559de"
 metafile = true
 
 [[files]]
