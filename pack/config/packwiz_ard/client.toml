@@ -1,0 +1,10 @@
+#Client Configuration
+[client]
+	#Whether the client should periodically re-check the modpack source status while the client update screen is open
+	#Set this to false if you prefer manual refresh only
+	auto_refresh_enabled = true
+	#How often the client should re-check the modpack source status while the update screen is open
+	#This value is only used when auto_refresh_enabled is true
+	# Default: 60
+	# Range: 5 ~ 3600
+	auto_refresh_interval_seconds = 60

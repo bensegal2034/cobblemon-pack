@@ -1,0 +1,97 @@
+#Server Configuration
+[server]
+	#The minimum permission level required to use the mod's commands
+	#Permission Node: 'packwiz_ard.command.minimum_permission_level'
+	# Default: 4
+	# Range: 0 ~ 4
+	minimumPermissionLevel = 4
+	#Enable or disable automatic updates
+	autoUpdate = false
+	#Interval in minutes for automatic updates
+	# Default: 1440
+	# Range: > 1
+	autoUpdateInterval = 1440
+
+	#Discord Webhooks Configuration
+	[server.discordWebhooks]
+		#Enable or disable Discord webhooks for server events
+		enabled = false
+		#The Discord Webhook URL to send server event notifications to
+		webhookUrl = "DISCORD_WEBHOOK_URL_HERE"
+		#The name to display as the author of the Discord webhook messages
+		discordAuthorName = "PackWiz ARD"
+		#The URL of the icon to display as the author of the Discord webhook messages
+		discordAuthorIconUrl = "https://raw.githubusercontent.com/Matthiesen-dev/.github/refs/heads/main/mod-logos/packwiz-ard.png"
+
+		#Webhook messages for various server events
+		[server.discordWebhooks.webhookMessages]
+			#Title for the bootstrap download triggered webhook message
+			bootstrapDownloadTriggered_title = "Bootstrap Download Triggered!"
+			#Description for the bootstrap download triggered webhook message
+			bootstrapDownloadTriggered_description = "A new bootstrap download has been triggered, and the download process has started!"
+			#Embed color for the bootstrap download triggered webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			bootstrapDownloadTriggered_color = "GOLD"
+			#Title for the bootstrap download finished webhook message
+			bootstrapDownloadFinished_title = "Bootstrap Download Finished!"
+			#Description for the bootstrap download finished webhook message
+			bootstrapDownloadFinished_description = "The bootstrap download process has finished successfully! The update process will now continue."
+			#Embed color for the bootstrap download finished webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			bootstrapDownloadFinished_color = "GREEN"
+			#Title for the bootstrap download failed webhook message
+			bootstrapDownloadFailed_title = "Bootstrap Download Failed!"
+			#Description for the bootstrap download failed webhook message
+			bootstrapDownloadFailed_description = "The bootstrap download process has failed! Please check the logs for more information."
+			#Embed color for the bootstrap download failed webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			bootstrapDownloadFailed_color = "RED"
+			#Title for the pack update triggered webhook message
+			packUpdateTriggered_title = "Modpack Update Triggered!"
+			#Description for the pack update triggered webhook message
+			packUpdateTriggered_description = "A new modpack update has been triggered, and the update process has started!"
+			#Embed color for the pack update triggered webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			packUpdateTriggered_color = "GOLD"
+			#Title for the pack update finished webhook message
+			packUpdateFinished_title = "Modpack Update Finished!"
+			#Description for the pack update finished webhook message
+			packUpdateFinished_description = "The modpack update process has finished successfully! Server restart pending to apply update"
+			#Embed color for the pack update finished webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			packUpdateFinished_color = "GREEN"
+			#Title for the pack update failed webhook message
+			packUpdateFailed_title = "Modpack Update Failed!"
+			#Description for the pack update failed webhook message
+			packUpdateFailed_description = "The modpack update process has failed! Please check the logs for more information."
+			#Embed color for the pack update failed webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			packUpdateFailed_color = "RED"
+			#Title for the pack source updated webhook message
+			packTomlLinkUpdated_title = "Pack Source Updated!"
+			#Description for the pack source updated webhook message
+			packTomlLinkUpdated_description = "The pack source has been updated! The new link is: %newLink%"
+			#Embed color for the pack source updated webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			packTomlLinkUpdated_color = "GOLD"
+			#Title for the minimum permission level updated webhook message
+			minimumPermissionLevelUpdated_title = "Minimum Permission Level Updated!"
+			#Description for the minimum permission level updated webhook message
+			minimumPermissionLevelUpdated_description = "The minimum permission level has been updated! The new level is: %newLevel%"
+			#Embed color for the minimum permission level updated webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			minimumPermissionLevelUpdated_color = "GOLD"
+			#Title for the auto update updated webhook message
+			autoUpdateUpdated_title = "Auto Update Updated!"
+			#Description for the auto update updated webhook message
+			autoUpdateUpdated_description = "The auto update setting has been updated! The new setting is: %newSetting%"
+			#Embed color for the auto update updated webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			autoUpdateUpdated_color = "GOLD"
+			#Title for the auto update interval updated webhook message
+			autoUpdateIntervalUpdated_title = "Auto Update Interval Updated!"
+			#Description for the auto update interval updated webhook message
+			autoUpdateIntervalUpdated_description = "The auto update interval has been updated! The new interval is: %newInterval% minutes"
+			#Embed color for the auto update interval updated webhook message
+			#Allowed Values: RED, GREEN, BLUE, PURPLE, ORANGE, GOLD, GREY, DARK_RED, DARK_GREEN, DARK_BLUE, BLACK, WHITE
+			autoUpdateIntervalUpdated_color = "GOLD"
