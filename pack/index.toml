@@ -351,11 +351,6 @@ hash = "a4524c2e21f552913d5d58380a9cc5e25697e08bce8e9c3aaf8536208ac00095"
 metafile = true
 
 [[files]]
-file = "mods/tslatentitystatus.pw.toml"
-hash = "bea86b2dafe903607fb42809da2ee7c31140be970e8181d6cb06733fa6c4cc60"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
 metafile = true
