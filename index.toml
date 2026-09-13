@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "DOWNLOAD_HERE/client.zip"
+hash = "8346869bdf2aa33e53f8dd3233c161b349abdfc10384fcdf5c3fd2b354c74006"
+
+[[files]]
+file = "DOWNLOAD_HERE/server.zip"
+hash = "8f4ee5cadbd056267a871e47b705ad6f911789b72520c4b02d0144eb0832eca1"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
@@ -153,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "ada4878aaa26ade6c1e68c161a34aaffb7b90df6355077846a4d8f2d967a01f4"
 metafile = true
 
 [[files]]
@@ -373,4 +386,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8c756c7fbf516b8d227e5f48afe3de8c2cbc89fd8769ea019a727eef57419556"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
