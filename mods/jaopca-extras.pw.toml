@@ -1,0 +1,13 @@
+name = "JAOPCA Extras"
+filename = "jaopcaextras-1.21.1-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lev3YGBh/versions/oNngAmjP/jaopcaextras-1.21.1-5.0.0.jar"
+hash-format = "sha512"
+hash = "2cde83e55e3f35a3a21324068535180cf9238bcd73b025503db638edaae943c74b04eee3a65c73ee4288009c14dda090bb8b75bbd48f32f2e04c7368d6184580"
+
+[update]
+[update.modrinth]
+mod-id = "lev3YGBh"
+version = "oNngAmjP"
