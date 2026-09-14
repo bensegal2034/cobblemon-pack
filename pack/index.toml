@@ -1070,11 +1070,6 @@ hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-ard.pw.toml"
-hash = "caebdea61cffd24b164df61d85b67de23ceda7955c77ff96ab3477790f02a5c0"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "47deee371b33cc2ca2120fa28b4969253c2e77bc493932e47771da0094780e62"
 metafile = true
