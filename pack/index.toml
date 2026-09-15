@@ -298,11 +298,11 @@ hash = "a1d7ce1bf07d787b9468423697c89a096ed7198d2b74dd55f47b709adf76352a"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "948cfcfa55b3f43bc91ed7b3bde182473dd58d396d3e3ed311cba4bf0e4f776e"
+hash = "ac73eb2784c673c357ac1ccecbfee7f4ffa83d1f44cf48fecda97e28076b3802"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "05d34ead971bff1897b0f5ebc30d73b1a49f7cbfabc2a513ca306c28ac127252"
+hash = "9d822e69fb0183fce3133c72022592e14079bbfd69689892a39518a61a5343ca"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
