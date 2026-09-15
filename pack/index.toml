@@ -835,8 +835,38 @@ hash = "77c29a9f3a11a8d906633def48ff287fbda0acca3402e40d206363e58ec60100"
 metafile = true
 
 [[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "80ca6afd6151213e74b66469c2203b17c86ff7535c2dd6d1db6ef24ad651fecc"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "820f67a3ef54403eb705b1d59c48adc05833368569110f773ea927c4915de23c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "fbd64ce217145bd1155f3ff3f895f5e5eebd0f2ad9679ce2d7a1a4114b4569ce"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "e3a968ac1e805df40d70706ee364efcb74b00ef67228e07207b2fea0f25c2b78"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "94e626e0da4029fed311cd08a6df21b7e7a2fa3a4dbae20015e79d0e275b52cc"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "377225e34507e08f7d72d8332046c49e4d3e0cd5afcd0e955791cfa6fc8b1e43"
 metafile = true
 
 [[files]]
@@ -850,6 +880,21 @@ hash = "1b474234c41d45bcaaef752a71291e73301530abf2a31cc17a986a0ae5dffa22"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "30c64afe323a053cfb5b40afae3a78eab6f5b602abee66c5f4b750fbeade9654"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "95da3df4218f19744fc21cfd8471a4289a640e19463688abcbd10b1632b4a272"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unchained.pw.toml"
+hash = "b803f6275d831a070aee1d28ca59cf961479d4bcc63d00e8de030985d1a01af3"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "b70b9d0d2ef79fdf9924c9b67991a1528e7db93c28330eb78b363527b73a2282"
 metafile = true
@@ -857,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "3cda03b7c35115260e7f14d476c4fc06e92b340a887207d3c3ca8e1359191107"
+metafile = true
+
+[[files]]
+file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "b330a5b205cd19f9c606a837f393d83430f1918fc0bbf4e90f6af6463f0cc2b5"
 metafile = true
 
 [[files]]
@@ -1050,8 +1100,18 @@ hash = "f89d62d6fda44f622bce29250a61bbd14a0c0625e6f099a9f8c04b278257a562"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monuments.pw.toml"
+hash = "f122d679665b3caffac4869d5805cbfd987617f4995508fd6f1ad8e9a619f015"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "78d27aadf3bb0a99ea88a88bcd8c89a97ceabc14a2c5d2755a31dfaa8181f2ab"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
@@ -1075,8 +1135,18 @@ hash = "7640380f7bb82e67cdf3af52f7329d0d871a96466d8c4e06844a1e6e0f2ea9e5"
 metafile = true
 
 [[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "22342957f496c3ab0e06d107b3b348bbb18d1417a128a5ea9ce0cfd05abc718d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "919cd2ca8f094b696a93f7af60c111fc5fdd6e1da7fce04581efe1b73b06c1e3"
+metafile = true
+
+[[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "6257fe68dd8ece330277a01cbcf302b5333be8633a0dfae2a3e30ae29285c256"
 metafile = true
 
 [[files]]
