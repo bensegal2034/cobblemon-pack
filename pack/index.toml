@@ -780,11 +780,6 @@ hash = "88fa73232a870a9bd2de6295662d5e6aaeca216484f830a1d9117abe255c2979"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "c81773e18b8ab5aa228d1fb2fe62366653a545ef70ad019fe02aa05d26176eac"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "6cee5553298d05310bef84b7487cb75f9bf29787fba915bf6f6e82beceb1af8d"
 metafile = true
@@ -1207,11 +1202,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c554b4ff8f6bd7418fdf4d23b939db68fce673cd8247630ff7d2bf0fbe0c4879"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "33874687156b1ee3d4e6563b4619f42c4dcdc2499bb160fa6260157b3dfac83f"
 metafile = true
 
 [[files]]
