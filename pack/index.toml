@@ -342,7 +342,7 @@ hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
 
 [[files]]
 file = "config/fml.toml"
-hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+hash = "eabf3b097b4048f83ec447d39da1b9ce44321a17a1d1ecd0f7e8ea352210ed48"
 
 [[files]]
 file = "config/guideme.toml"
@@ -770,6 +770,11 @@ hash = "2adcaa58025566ff95495235fbf723b9609fbf0137414e510a21f8c9b9ab6234"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "88fa73232a870a9bd2de6295662d5e6aaeca216484f830a1d9117abe255c2979"
 metafile = true
@@ -840,8 +845,18 @@ hash = "aa29b682342a829b6f0cf6dcd988aaba2cd829d39c616efec51be73f149378e2"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "1b474234c41d45bcaaef752a71291e73301530abf2a31cc17a986a0ae5dffa22"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "b70b9d0d2ef79fdf9924c9b67991a1528e7db93c28330eb78b363527b73a2282"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "3cda03b7c35115260e7f14d476c4fc06e92b340a887207d3c3ca8e1359191107"
 metafile = true
 
 [[files]]
@@ -952,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "fb9e8b233568cc612b0ac53d9041d019c15ad98bdb9893033736906ec285c935"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -1067,6 +1087,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
