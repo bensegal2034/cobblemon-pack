@@ -815,6 +815,11 @@ hash = "308bb5e7efbb5e4aa021f74c42a502f70760536b0ea2a5fdb6a2b0ad663e5323"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "93cae8f4a23a8bae9de5316928eaebe7de3b0bb315abde11708c39479cc4cbd2"
 metafile = true
@@ -1177,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "95fe79ecdb1e1da0aa00bbc7a113b117353382265350b570b23c43bf9ddde7d7"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
