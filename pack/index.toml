@@ -605,6 +605,11 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "config/openloader/data/cobbletowns-continued.pw.toml"
+hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
+metafile = true
+
+[[files]]
 file = "config/packwiz_ard/client.toml"
 hash = "622e93e6297120e169641e8f9451a7be5d6b268d1bcede2d64b8b47aaaf17e7d"
 
@@ -985,8 +990,18 @@ hash = "0ea8c1ac457d10f3064d5ccf492f5c9e20d7effa47a7380d774deb224514adda"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6aba9d20ceaf2f4f3368734cdfc37924b6fdf19df3f6631d68402490289cfd54"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8cae33b1efef3e002d97f8baf1f78b33b6d723cba76f8c9485bf98ec85416322"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d8b1aa8f9d9bcde610fafc4780d2e7614c05f6f25d74978714745ee060b5fe39"
 metafile = true
 
 [[files]]
@@ -1155,6 +1170,11 @@ hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1171,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "95fe79ecdb1e1da0aa00bbc7a113b117353382265350b570b23c43bf9ddde7d7"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
@@ -1252,6 +1272,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "8ad06c998f252582c35fd6ac52ed1b2779ab5d51ee66c72fc81e088d3796509a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblefolk-skin-pack.pw.toml"
+hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
 metafile = true
 
 [[files]]
