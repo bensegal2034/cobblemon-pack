@@ -627,11 +627,6 @@ hash = "d94f943034bca0270c72a3e56a9ef4864d81e2300c5e64418ee2b2619b7d979b"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/cobbletowns-continued.pw.toml"
-hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "12dd7db62356a0b9cf97a7d6303005439bc571de723e7f605ed82b1ca3b44a43"
 metafile = true
