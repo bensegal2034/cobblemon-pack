@@ -11,3 +11,8 @@ hash = "a2b8304ef51182d659a3cc44fa77f880cbcf0c6f9ec74e24593d4015bcadee48"
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "voduvfsA"
+
+[option]
+optional = true
+default = true
+description = "Shader dependency: disable if disabling shaders"
