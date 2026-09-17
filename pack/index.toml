@@ -622,6 +622,11 @@ hash = "12dd7db62356a0b9cf97a7d6303005439bc571de723e7f605ed82b1ca3b44a43"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-additions.pw.toml"
+hash = "d94f943034bca0270c72a3e56a9ef4864d81e2300c5e64418ee2b2619b7d979b"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/cobbletowns-continued.pw.toml"
 hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
 metafile = true
@@ -907,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "95da3df4218f19744fc21cfd8471a4289a640e19463688abcbd10b1632b4a272"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trials-edition.pw.toml"
+hash = "53f8192e5dcda2c102cafd9699f0b04c6afd430c85985f239614f9f794a485cb"
 metafile = true
 
 [[files]]
@@ -1237,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/swing-through-grass.pw.toml"
 hash = "4da0c6351343423d65b9f0a0528f1ee6a4f7a4e0aa9dd04982ed618b6737cf95"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "763e2b15b3ffc404a7cfa770fa63d1928d8c18bbca8325a7ca09c6a8a0f87b98"
 metafile = true
 
 [[files]]
