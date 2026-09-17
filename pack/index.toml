@@ -1070,6 +1070,11 @@ hash = "f23dac38092e008d7b48eae53809cf61c9b1cef201c5f3b6c5693856cb6908cf"
 metafile = true
 
 [[files]]
+file = "mods/integrated-cobblemon.pw.toml"
+hash = "5f7091f251f7aa94947703a3f50219cfe9585cb8684f3782146b329d82305d35"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "c7ed30e038c914a29a71be2798daa002b77d256d0a9955c4b947573e27fdb956"
 metafile = true
