@@ -1160,6 +1160,11 @@ hash = "bf2bc412a5af65cd24973abb0cfa5c7437c26fcc535102f8d9eea01526ff51df"
 metafile = true
 
 [[files]]
+file = "mods/lootrmon.pw.toml"
+hash = "4fc73c53deeb29e98ee31b7cb534f80ed3635afc54f7c37460cfba92718ce74a"
+metafile = true
+
+[[files]]
 file = "mods/matthiesen-core.pw.toml"
 hash = "b57fffd734ea0fd5f068402e14105a5257199523648cd0a286a0e373139f8f5e"
 metafile = true
