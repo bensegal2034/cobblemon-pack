@@ -605,11 +605,6 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
-file = "config/openloader/data/cobbletowns-continued.pw.toml"
-hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
-metafile = true
-
-[[files]]
 file = "config/packwiz_ard/client.toml"
 hash = "622e93e6297120e169641e8f9451a7be5d6b268d1bcede2d64b8b47aaaf17e7d"
 
@@ -620,6 +615,16 @@ hash = "eed6f67a595d16b102a5e38e1384d4f98be045df2f2fe9550fde91a679d17317"
 [[files]]
 file = "config/packwiz_ard/server.toml"
 hash = "7a00cc3cfb7c963ffebcf2359583562f7fe13c729094cc112d830cbbecfd150a"
+
+[[files]]
+file = "config/paxi/datapacks/cobbletowns-continued.pw.toml"
+hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cobblefolk-skin-pack.pw.toml"
+hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
+metafile = true
 
 [[files]]
 file = "config/ponder-client.toml"
@@ -1170,13 +1175,13 @@ hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
@@ -1261,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "2111416e0a8655a6a4e1faa5c2232a11c0eb7ae7d1c9c2f39f66aac8c60c5f5d"
+hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]
@@ -1272,11 +1277,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "8ad06c998f252582c35fd6ac52ed1b2779ab5d51ee66c72fc81e088d3796509a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobblefolk-skin-pack.pw.toml"
-hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
 metafile = true
 
 [[files]]
