@@ -40,7 +40,7 @@
 	tweaks = true
 	world = false
 	mobs = false
-	client = true
+	client = false
 	experimental = false
 	oddities = true
 

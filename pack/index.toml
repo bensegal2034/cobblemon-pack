@@ -646,7 +646,7 @@ hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6e3486c1d1e6451a52378de0b0c4878d20376d9949e3f0a0eacd375fbb2043d5"
+hash = "4f7514ad15fc1ce1b09e10a9ed3c49da90a57069ab392173973987d7751b445c"
 
 [[files]]
 file = "config/sable-client.toml"
