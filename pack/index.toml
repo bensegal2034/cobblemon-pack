@@ -1070,6 +1070,11 @@ hash = "f23dac38092e008d7b48eae53809cf61c9b1cef201c5f3b6c5693856cb6908cf"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "d78071eb244731b62027bb24e0d9bdf5976925ea67972994c261dd1ba4b77832"
+metafile = true
+
+[[files]]
 file = "mods/integrated-cobblemon.pw.toml"
 hash = "5f7091f251f7aa94947703a3f50219cfe9585cb8684f3782146b329d82305d35"
 metafile = true
@@ -1170,6 +1175,11 @@ hash = "7640380f7bb82e67cdf3af52f7329d0d871a96466d8c4e06844a1e6e0f2ea9e5"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "a378eacf15808312cf62335ac81a243adf5f29d287b3eaa500e02ab04460e44d"
+metafile = true
+
+[[files]]
 file = "mods/more-cobblemon-tweaks.pw.toml"
 hash = "22342957f496c3ab0e06d107b3b348bbb18d1417a128a5ea9ce0cfd05abc718d"
 metafile = true
@@ -1215,6 +1225,21 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "2d660469f1e16ac76c17f63ea29863ddb47d9fd7040c907fcab3bd6e5513a5a1"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "49aa0a03ab570a6a8fdbc5bb4cb02c9680964539aaede257209198d28b3792fd"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -1250,6 +1275,11 @@ hash = "481a41176343ac6eacbcf9a7a1bfe44f251abe58a0c0cae118262f56181d333f"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
+metafile = true
+
+[[files]]
 file = "mods/swing-through-grass.pw.toml"
 hash = "4da0c6351343423d65b9f0a0528f1ee6a4f7a4e0aa9dd04982ed618b6737cf95"
 metafile = true
@@ -1282,6 +1312,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "8ad06c998f252582c35fd6ac52ed1b2779ab5d51ee66c72fc81e088d3796509a"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
