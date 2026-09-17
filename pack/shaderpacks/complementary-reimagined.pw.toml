@@ -11,3 +11,8 @@ hash = "f2bc85507f8bfed274ede69fc7df3b6af3f35c5c98baea8bec95ebeb5f3eb79b"
 [update.modrinth]
 mod-id = "HVnmMxH1"
 version = "ErCjThzb"
+
+[option]
+optional = true
+default = true
+description = "Shader dependency: disable if disabling shaders"

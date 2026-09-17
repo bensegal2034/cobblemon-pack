@@ -984,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "b2ec4ca37f41faee8ff9cfbcd27b67a5b57fd46c19c8b6fb63016b314490b00a"
+hash = "26f266b24ecb6ac5e9090e27a6300908c7e5cce9d0c574b42fcaae4e9f03c692"
 metafile = true
 
 [[files]]
@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5e0b042e046ae73495cfbb3e6d0b9394b7df08dabdb39f67128f86919ba57e81"
+hash = "bd25aa3f89df9c6f0ba9bdadf58c8659751aef3e1444aa44449dae17b2732b7b"
 metafile = true
 
 [[files]]
@@ -1349,10 +1349,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9bb313911a456867eccee25c6e9237bd7f5f54c8f4937a0f2dd92f8febfb8bc4"
+hash = "bb4ac3cf991fd63d406c35242f5a470ea84473966267bde4131f8fcecb9a8e5e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "03fff627d836530824f79b864e76168911f0a743d4b1840d5dae94de2fb1718a"
+hash = "431b8e174b39ccd2c40904e33e51b5f5333500d9ccf1284d916d6756dae3ddba"
 metafile = true
