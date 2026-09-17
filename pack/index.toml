@@ -1240,21 +1240,6 @@ hash = "4da0c6351343423d65b9f0a0528f1ee6a4f7a4e0aa9dd04982ed618b6737cf95"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "4a8398f11bc2e883528266ce233df77f64836855db21af825b72f3a6f91b32e8"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "fedb5d6dfc1ee37fb5e160bfbd78d864efd6c1d3fdca5696353e9d5619c45fcf"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "d440bc02820dc86bf320de16af7f14970f8bbc33cc8845f13e3e35e9496dbec6"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "cb56cd136fd93f92223215728a83d398a457a2023f36a235cb192493f39df935"
 metafile = true
