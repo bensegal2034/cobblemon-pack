@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "61b6cf9e753b8a191b6a42c7237b99a251b4939198ca5b770c55956519578954"
 
 [[files]]
+file = "config/LegendaryMonuments/config.json"
+hash = "bb33aa33a4e79855a61b83b56886505326da884ab5f245a0b25a78481cde28f1"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
