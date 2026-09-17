@@ -1240,6 +1240,21 @@ hash = "49aa0a03ab570a6a8fdbc5bb4cb02c9680964539aaede257209198d28b3792fd"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "e960df6664514910fa5190229c448bffbcddb29d822bb7c07566bf31fd65772f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "f7758221468760a7d22b31f97e822f5a66fa1fa21d2c8b4b3bb21ca01faff3cd"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "6bee7be8af8f9247fbf84dcd1ec9af2adaa42e55d52ab8a5bfe9b6ff7c94da46"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -1267,6 +1282,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "71c26069a58bc0fc1519935c1d561171de6fec45b963c8c227f1cc9aa927ed55"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
