@@ -1,0 +1,13 @@
+name = "PokeLoot [Cobblemon]"
+filename = "CobblemonPokeLoot 1.9.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KP2IZrd5/versions/rs5R25uo/CobblemonPokeLoot%201.9.zip"
+hash-format = "sha512"
+hash = "42c6240edd88f78fc94d3cd23c35daaa7b56e24658e84965e7f75e3d3b02b01f49c80e4672bfd19e25653b913e6b38630fb6cfcbed649632c581aff104e000bc"
+
+[update]
+[update.modrinth]
+mod-id = "KP2IZrd5"
+version = "rs5R25uo"

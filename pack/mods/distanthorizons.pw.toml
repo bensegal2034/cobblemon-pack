@@ -1,13 +1,18 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-3.3.1-1.21.11-fabric-neoforge.jar"
+filename = "DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/HVuztu4n/DistantHorizons-3.3.1-1.21.11-fabric-neoforge.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/IcOcoekl/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
 hash-format = "sha512"
-hash = "cb81c1d37b0f156bb2ace84ae9b6d57193e87ef55c14bb1881dc8a5e189c9f261e1803f0c6d7849c6705349f2846139c2dbce43605ba81719479836a21904bb1"
+hash = "d64daa41c419410421695afbbc72da47372168ed8346f5154fb9232b401f86e4c3bf8b4e8a29deb36a70af98fb804ce2b9041334f0931cea3f6b7156c7668c1d"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "HVuztu4n"
+version = "IcOcoekl"
+
+[option]
+optional = true
+default = false
+description = "Allows you to see further. Increases RAM usage."

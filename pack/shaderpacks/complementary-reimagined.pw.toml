@@ -14,5 +14,5 @@ version = "ErCjThzb"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Shader dependency: disable if disabling shaders"

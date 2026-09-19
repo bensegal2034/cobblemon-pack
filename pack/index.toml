@@ -631,6 +631,11 @@ hash = "d94f943034bca0270c72a3e56a9ef4864d81e2300c5e64418ee2b2619b7d979b"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-pokeloot.pw.toml"
+hash = "37c6ed1b6a3cc0e003f0a3c360e756306799aaf01c2c612311b760352450f512"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "12dd7db62356a0b9cf97a7d6303005439bc571de723e7f605ed82b1ca3b44a43"
 metafile = true
@@ -778,7 +783,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "aaeea6b2f4468261cbd6c112e9a9e773a89979f2751e49b69a616d15fe995bb9"
+hash = "4223738a426bc9e29ec4842129dacef1fa1b455c9b90c5bdca23f99a54b593ad"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
@@ -989,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "245b687861d9741e10c9dd08ac0ad06ead2bb9e4a66d0a7d4ae152534e7a3032"
+hash = "3dac772009f6be3f7e1afea8b21dcc109d4ffd23d92edd42707c048bed07e72a"
 metafile = true
 
 [[files]]
@@ -1099,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bd25aa3f89df9c6f0ba9bdadf58c8659751aef3e1444aa44449dae17b2732b7b"
+hash = "0e2984f876311ad783bb5f0e5d1b511641e62032e8b5a804e1ba1c1cc2340c96"
 metafile = true
 
 [[files]]
@@ -1354,10 +1359,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "bb4ac3cf991fd63d406c35242f5a470ea84473966267bde4131f8fcecb9a8e5e"
+hash = "5baa04e2faac3210ec6daf6d2e5e555b4d8f4dd21cf9c6ca2d8851fbcc24aa1a"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "431b8e174b39ccd2c40904e33e51b5f5333500d9ccf1284d916d6756dae3ddba"
+hash = "0c6569d05e2e084c82e4be10e50827b85a0537643e16096923710acc509b1009"
 metafile = true

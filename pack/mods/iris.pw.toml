@@ -14,5 +14,5 @@ version = "KduFYu4t"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Allows the usage of shaders."
