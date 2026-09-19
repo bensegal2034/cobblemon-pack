@@ -265,6 +265,10 @@ file = "config/chloride-client.toml_backup2"
 hash = "39cdac520f5e782dec6ca08e3cbd8a9216c47008453d3506828a92ec04ab3417"
 
 [[files]]
+file = "config/cobbled_counter.json"
+hash = "5d3966b84f9b578621b86bd3a19418d72ce79498a2978c25cd4d0152cd245128"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "e8c2b3dfc0338e0e527f3dc1cd1fa8b60bbaf7e105ae2ff91d371023b32024d1"
 
