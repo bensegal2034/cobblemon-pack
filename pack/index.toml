@@ -667,10 +667,6 @@ file = "config/quark-common.toml"
 hash = "4f7514ad15fc1ce1b09e10a9ed3c49da90a57069ab392173973987d7751b445c"
 
 [[files]]
-file = "config/rctmod-server.toml"
-hash = "b226ab92e7ca6354ef87511a5a8f51b9c2e533ecfffc969bf89ef07a2a19de77"
-
-[[files]]
 file = "config/sable-client.toml"
 hash = "5f816a5d7d32cc56ff3f26e3adbb25c6bfea6d81aba088cca9e00d42d73753e4"
 
