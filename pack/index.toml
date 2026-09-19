@@ -644,6 +644,11 @@ hash = "37c6ed1b6a3cc0e003f0a3c360e756306799aaf01c2c612311b760352450f512"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/rct-badges-cobblemonpokemonbadges.pw.toml"
+hash = "860c49bdd3c673c8e0756a30bbb087470db55295b757772c6bac5bec713465f2"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "12dd7db62356a0b9cf97a7d6303005439bc571de723e7f605ed82b1ca3b44a43"
 metafile = true
@@ -922,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "1b474234c41d45bcaaef752a71291e73301530abf2a31cc17a986a0ae5dffa22"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokemon-badges.pw.toml"
+hash = "1f2cd45c3decc1215fca84fb3df356d017f17dbd130f18704fea55772a140adf"
 metafile = true
 
 [[files]]
