@@ -585,6 +585,10 @@ file = "config/matthiesen_core/metrics.properties"
 hash = "5f79a80828e0499fb6809cfa588c0a2fe3ab7dc69921b430a004ccf12044abbb"
 
 [[files]]
+file = "config/mega_showdown/config.json"
+hash = "980c395800985057a398799ddb18326d6fe4f492990e76b16620796b3f081ca9"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
