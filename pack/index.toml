@@ -988,6 +988,11 @@ hash = "26f266b24ecb6ac5e9090e27a6300908c7e5cce9d0c574b42fcaae4e9f03c692"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "245b687861d9741e10c9dd08ac0ad06ead2bb9e4a66d0a7d4ae152534e7a3032"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "8ea3b2c289be8b2fae1912cd8be6f685786473e354355c0fc3cce5905c3eb835"
 metafile = true
