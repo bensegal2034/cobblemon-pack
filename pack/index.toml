@@ -1121,16 +1121,6 @@ hash = "2e02e77e07e5a670014cbcfccf8424c827eae329cca03f5bc0efd3c79f4b8f80"
 metafile = true
 
 [[files]]
-file = "mods/jaopca-extras.pw.toml"
-hash = "b46246a856c289f575152f27dba194226f5c98463e8a668465141bed99739abe"
-metafile = true
-
-[[files]]
-file = "mods/jaopca.pw.toml"
-hash = "8e0555399a6ee11e9ec6a711caed11927f014228717fa2dfb99d250f9e068bd7"
-metafile = true
-
-[[files]]
 file = "mods/jrftl.pw.toml"
 hash = "fa3679bfbe06d00e7cb83be97f55f8af8969c457601de44890e6bd2cd155bd48"
 metafile = true
